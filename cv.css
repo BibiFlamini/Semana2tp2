@@ -1,0 +1,48 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    text-align: left;
+    color: blue;
+}
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    text-align: left;
+    color: green;
+}
+img{
+    border-radius: 10px;
+    width: 200px;
+    border-style: double;
+}
+ul{
+    background-color: beige;
+    padding: 20px;
+    margin-right: 500px;
+}
+ul li{
+    background-color: rgb(169, 125, 210);
+    color: darkblue;
+    margin: 5px;
+    list-style: none;
+}
+.parrafo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    padding: 45px;
+    margin-right: 500px;
+}
+#contacto{
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: bold;
+    background-color: antiquewhite;
+    margin-right: 500px;
+    box-sizing: border-box;
+    padding: 45px;
+}
